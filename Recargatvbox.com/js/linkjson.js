@@ -1,5 +1,5 @@
 let recargas = [];
-const endPointDaAPI = 'recargas.json';
+const endPointDaAPI = 'js/recargas.json';
 getBuscarRecargas();
 
 async function getBuscarRecargas() {
