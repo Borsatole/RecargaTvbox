@@ -53,6 +53,11 @@ header nav li {
 
 .banner {
     background-color: white;
+
+}
+
+.rounded-lg {
+border-radius: 0rem;
 }
 
 
@@ -67,19 +72,6 @@ main h1 {
     font-weight: 400;
     color: #373434;
 }
-
-/* #cards {
-    border: 1px solid black;
-    height: 100%;
-    width: 100%;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 15px;
-    justify-content: center;
-
-    
-    
-} */
 
 #cards {
     display: grid;
