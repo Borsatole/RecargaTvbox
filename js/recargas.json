@@ -2,62 +2,52 @@
      {
       "titulo": "Recarga Mensal Unitv (30dias)",
       "imagem": "Cards/unitv_mensal.png",
-      "preco": "19,90"
+      "preco": "R$ 19,90"
      },
      {
       "titulo": "Recarga Trimestral Unitv (90dias)",
       "imagem": "Cards/unitv_trimestral.png",
-      "preco": "49,90"
+      "preco": "R$ 49,90"
       },
      {
         "titulo": "Recarga Semestral Unitv (180dias)",
         "imagem": "Cards/unitv_semestral.png",
-        "preco": "119,90"
+        "preco": "R$ 119,90"
       },
      {
         "titulo": "Recarga Anual Unitv (365dias)",
         "imagem": "Cards/unitv_anual.png",
-        "preco": "149,90"
+        "preco": "R$ 149,90"
       },
      {
         "titulo": "Recarga Mensal Alphaplay (30dias)",
         "imagem": "Cards/alphaplay_mensal.png",
-        "preco": "19,90"
+        "preco": "R$ 29,90"
       },
      {
         "titulo": "Recarga Trimestral Alphaplay (90dias)",
-        "imagem": "Cards/alphaplay_mensal.png",
-        "preco": "49,90"
+        "imagem": "Cards/alphaplay_trimestral.png",
+        "preco": "R$ 69,90"
       },
       {
         "titulo": "Recarga Semestral Alphaplay (180dias)",
-        "imagem": "Cards/alphaplay_mensal.png",
-        "preco": "119,90"
+        "imagem": "Cards/alphaplay_semestral.png",
+        "preco": "R$ 134,90"
       },
       {
         "titulo": "Recarga Anual Alphaplay (365dias)",
-        "imagem": "Cards/alphaplay_mensal.png",
-        "preco": "149,90"
+        "imagem": "Cards/alphaplay_anual.png",
+        "preco": "R$ 179,90"
       },
       {
         "titulo": "Recarga Mensal TvExpress (30dias)",
         "imagem": "Cards/tvexpress_mensal.png",
-        "preco": "119,90"
-      },
-      {
-        "titulo": "Recarga Trimestral TvExpress (90dias)",
-        "imagem": "Cards/tvexpress_mensal.png",
-        "preco": "49,90"
-      },
-      {
-        "titulo": "Recarga Semestral TvExpress (180dias)",
-        "imagem": "Cards/tvexpress_mensal.png",
-        "preco": "119,90"
+        "preco": "R$ 24,99"
       },
       {
         "titulo": "Recarga Anual TvExpress (365dias)",
-        "imagem": "Cards/tvexpress_mensal.png",
-        "preco": "149,90"
+        "imagem": "Cards/tvexpress_anual.png",
+        "preco": "R$ 149,90"
       }
 
     

@@ -1,0 +1,25 @@
+[
+    {
+     "imagem": "Cards/unitv_mensal.png",
+     "app_nome": "Unitv",
+     "dowloader": "169791",
+     "link1": "https://links.unitv.club/TVDW",
+     "link2":"https://links.unitv.club/MODW"
+    },
+
+    {
+        "imagem": "Cards/alphaplay_mensal.png",
+        "app_nome": "Alphaplay",
+        "dowloader": "421427",
+        "link1": "https://storage.alphaplay.tv/alphaplay.apk?_ga=2.56362347.1385637097.1714405851-454225437.1711637772",
+        "link2":"https://storage.alphaplay.tv/alphaplay.apk?_ga=2.64031471.1385637097.1714405851-454225437.1711637772"
+    },
+
+    {
+        "imagem": "Cards/tvexpress_mensal.png",
+        "app_nome": "TvExpress",
+        "dowloader": "853488",
+        "link1": "https://bit.ly/stb350web",
+        "link2":"https://bit.ly/mobile430web"
+    }
+]
