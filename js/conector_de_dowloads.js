@@ -1,5 +1,5 @@
 let aplicativos = [];
-const endPointDaAPIApp = 'js/dowloadsapp.json';
+const endPointDaAPIApp = 'js/aplicativos_para_baixar.json';
 getBuscaraplicativos();
 
 async function getBuscaraplicativos() {

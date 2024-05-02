@@ -16,7 +16,7 @@ function exibirAplicativos(aplicativos) {
 
         <label for="">Codigo para Dowloader</label>
         
-        <div class="w-full max-w-[16rem]">
+        <div class="w-full max-w-[100%]">
         <div class="relative">
         <label for="npm-install-copy-button" class="sr-only">Label</label>
         <input id="npm-install-copy-button" style="text-align: center;" type="text" class="col-span-6 bg-gray-50 border border-gray-300 text-gray-500 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-gray-400 dark:focus:ring-blue-500 dark:focus:border-blue-500" value="${aplicativo.dowloader}" disabled readonly>

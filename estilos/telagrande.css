@@ -29,6 +29,10 @@ header {
     gap:40%;
 }
 
+header .burguer {
+    display: none;
+}
+
 header .logotipo {
     display: flex;
     height: 90%;
