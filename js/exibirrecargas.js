@@ -8,11 +8,11 @@ function exibirasRecargas(recargas) {
       recargas.forEach(recarga => {
         main.innerHTML += `
         <div class="w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-        <a ${`href="https://api.whatsapp.com/send?phone=55${whatsapp}&text=Olá, gostaria da ${recarga.titulo.toLowerCase()}"`} target="_blank">
-            <img class="p-8 rounded-t-lg" src="${recarga.imagem}" alt=${`"card da ${recarga.titulo.toLowerCase()}"`} />
+        <a ${`href="https://api.whatsapp.com/send?phone=55${whatsapp}&text=Olá, gostaria da ${recarga.titulo.toLowerCase()}"`} target="_blank" title=${`"plano de ${recarga.titulo.toLowerCase()}"`}>
+            <img class="p-8 rounded-t-lg"  src="${recarga.imagem}" title=${`"plano de ${recarga.titulo.toLowerCase()}"`} alt=${`"card da ${recarga.titulo.toLowerCase()}"`}>
         </a>
         <div class="px-5 pb-5">
-            <a ${`href="https://api.whatsapp.com/send?phone=55${whatsapp}&text=Olá, gostaria da ${recarga.titulo.toLowerCase()}"`} target="_blank">
+            <a ${`href="https://api.whatsapp.com/send?phone=55${whatsapp}&text=Olá, gostaria da ${recarga.titulo.toLowerCase()}"`} target="_blank" title="link whatsapp recargatvbox">
                 <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">${recarga.titulo}</h5>
             </a>
             <div class="flex items-center mt-2.5 mb-5">

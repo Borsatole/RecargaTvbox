@@ -6,7 +6,7 @@ function exibirAplicativos(aplicativos) {
     aplicativos.forEach(aplicativo => {
         exibicao.innerHTML += `
         <div class="card_dowload">
-        <img src="${aplicativo.imagem}" alt=""> 
+        <img src="${aplicativo.imagem}" alt="logo ${aplicativo.app_nome}"> 
         <h2>${aplicativo.app_nome}</h2>
         <!-- Imagem app -->
 

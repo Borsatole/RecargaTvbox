@@ -5,8 +5,8 @@ var ano = new Date().getFullYear();
 rodape.innerHTML = `<div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
                 <div class="md:flex md:justify-between">
                   <div class="mb-6 md:mb-0">
-                      <a href=${site} class="flex items-center">
-                          <img src="Imagens/footerlogo.png" class="h-8 me-3" alt="logotipodorodape" />
+                      <a href=${site} class="flex items-center" title="link para pagina inicial">
+                          <img src="imagens/footerlogo.png" class="h-8 me-3" alt="logotipo do dorodape" title="logotipo de rodapé"/>
                           <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white"></span>
                       </a>
                   </div>
@@ -15,7 +15,7 @@ rodape.innerHTML = `<div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8"
                           <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Outras Recargas</h2>
                           <ul class="text-gray-500 dark:text-gray-400 font-medium">
                               <li class="mb-4">
-                                  <a href="https://playnetapp.com/" class="hover:underline">Playnet</a>
+                                  <a href="https://playnetapp.com/" class="hover:underline" title="link para site parceiro da recargatvbox">Playnet</a>
                               </li>
                               
                           </ul>
@@ -24,7 +24,7 @@ rodape.innerHTML = `<div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8"
                           <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Termos</h2>
                           <ul class="text-gray-500 dark:text-gray-400 font-medium">
                               <li class="mb-4">
-                                  <a href="/termos-de-uso.html" class="hover:underline">Termos de Uso</a>
+                                  <a href="/termos-de-uso.html" class="hover:underline" title="link para os termos de uso">Termos de Uso</a>
                               </li>
                           </ul>
                       </div>

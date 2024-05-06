@@ -48,7 +48,97 @@
         "titulo": "Recarga Anual TvExpress (365dias)",
         "imagem": "Cards/tvexpress_anual.png",
         "preco": "R$ 149,90"
-      }
+      },
+      {
+        "titulo": "Recarga Mensal MFC (30dias)",
+        "imagem": "Cards/myfamilycinema_mensal.png",
+        "preco": "R$ 19,90"
+      },
+      {
+        "titulo": "Recarga Anual MFC (365dias)",
+        "imagem": "Cards/myfamilycinema_anual.png",
+        "preco": "R$ 99,90"
+      },
+      {
+        "titulo": "Recarga Mensal Central (30dias)",
+        "imagem": "Cards/central_mensal.png",
+        "preco": "R$ 24,90"
+      },
+     {
+        "titulo": "Recarga Trimestral Central (90dias)",
+        "imagem": "Cards/central_trimestral.png",
+        "preco": "R$ 64,90"
+      },
+      {
+        "titulo": "Recarga Semestral Central (180dias)",
+        "imagem": "Cards/central_semestral.png",
+        "preco": "R$ 109,90"
+      },
+      {
+        "titulo": "Recarga Anual Central (365dias)",
+        "imagem": "Cards/central_anual.png",
+        "preco": "R$ 169,90"
+      },
+      {
+         "titulo": "Recarga Mensal P2Cine (30dias)",
+         "imagem": "Cards/p2cine_mensal.png",
+         "preco": "R$ 24,90"
+       },
+      {
+         "titulo": "Recarga Trimestral P2Cine (90dias)",
+         "imagem": "Cards/p2cine_trimestral.png",
+         "preco": "R$ 64,90"
+       },
+       {
+         "titulo": "Recarga Semestral P2Cine (180dias)",
+         "imagem": "Cards/p2cine_semestral.png",
+         "preco": "R$ 109,90"
+       },
+       {
+         "titulo": "Recarga Anual P2Cine (365dias)",
+         "imagem": "Cards/p2cine_anual.png",
+         "preco": "R$ 169,90"
+       },
+       {
+          "titulo": "Recarga Mensal Uniplay (30dias)",
+          "imagem": "Cards/uniplay_mensal.png",
+          "preco": "R$ 24,90"
+        },
+       {
+          "titulo": "Recarga Trimestral Uniplay (90dias)",
+          "imagem": "Cards/uniplay_trimestral.png",
+          "preco": "R$ 64,90"
+        },
+        {
+          "titulo": "Recarga Semestral Uniplay (180dias)",
+          "imagem": "Cards/uniplay_semestral.png",
+          "preco": "R$ 109,90"
+        },
+        {
+          "titulo": "Recarga Anual Uniplay (365dias)",
+          "imagem": "Cards/uniplay_anual.png",
+          "preco": "R$ 169,90"
+        },
+        {
+           "titulo": "Recarga Mensal Zeusplay (30dias)",
+           "imagem": "Cards/zeus_mensal.png",
+           "preco": "R$ 24,90"
+         },
+        {
+           "titulo": "Recarga Trimestral Zeusplay (90dias)",
+           "imagem": "Cards/zeus_trimestral.png",
+           "preco": "R$ 64,90"
+         },
+         {
+           "titulo": "Recarga Semestral Zeusplay (180dias)",
+           "imagem": "Cards/zeus_semestral.png",
+           "preco": "R$ 109,90"
+         },
+         {
+           "titulo": "Recarga Anual Zeusplay (365dias)",
+           "imagem": "Cards/zeus_anual.png",
+           "preco": "R$ 169,90"
+         }
 
     
  ]

@@ -37,7 +37,7 @@ header .logotipo {
     display: flex;
     height: 90%;
     width: 25%;
-    background-image: url(../Imagens/Logotipo.png);
+    background-image: url(../imagens/Logotipo.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
@@ -131,6 +131,7 @@ main h1 {
 
 .card_dowload img {
     width: 150px;
+    height: 150px;
     margin: 0 auto;
 }
 
@@ -143,4 +144,9 @@ main h1 {
     flex-wrap: wrap;
     gap: 10px;
     justify-content: center;
+}
+
+nav ul {
+    display: flex;
+    gap: 25px;
 }
